@@ -1,0 +1,4 @@
+-1.66 -0.25 0.25 1.66
+
+front to middle is negative, back to middle is positive.
+replace FIXED_ANGLE_CORRECTION with middle vals. Output is displayed every 50 ms for angular frequency measurement.
